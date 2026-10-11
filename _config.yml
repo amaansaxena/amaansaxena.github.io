@@ -1,0 +1,18 @@
+title: Amaan Saxena | Data & Analytics Notes
+description: Notes on Power BI, DAX and data visualization.
+author: Amaan Saxena
+github_username: amaansaxena
+
+# For a user site (repo named <username>.github.io) leave url/baseurl as below.
+# For a project site (any other repo name), set baseurl to "/<repo-name>".
+url: "https://amaansaxena.github.io"
+baseurl: ""
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+show_excerpts: true
+markdown: kramdown
+highlighter: rouge
