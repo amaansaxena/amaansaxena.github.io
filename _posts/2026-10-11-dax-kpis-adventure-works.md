@@ -299,7 +299,7 @@ Clicking any slicer or chart element cross-filters the rest of the page, which w
 
 ![The finished Power BI dashboard with KPI cards, charts and slicers]({{ "/assets/images/fig7-dashboard.png" | relative_url }})
 
-*Figure 7. Dashboard with KPI cards, charts and slicers. The visuals come from the Power BI report and are rearranged and recoloured for this post.*
+*Figure 7. Dashboard with KPI cards, charts and slicers. The visuals come from the Power BI report.*
 {: .caption}
 
 ## What the numbers say
@@ -384,4 +384,3 @@ Two things look worth a closer look in the business itself: how much revenue lea
 
 ---
 
-*Amaan Saxena is a B.Tech AI & ML student at Symbiosis Institute of Technology, Pune.*
